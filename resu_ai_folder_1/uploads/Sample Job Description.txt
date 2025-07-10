@@ -1,0 +1,58 @@
+Job Title: AI & Software Engineer (Resume Screening & NLP Specialist)
+
+Location: Noida, Uttar Pradesh
+Company: [Company Name]
+Job Type: Full-Time
+
+Job Summary:
+We are seeking an innovative and driven AI & Software Engineer with a strong foundation in Data Structures & Algorithms (DSA) and a passion for building scalable AI and NLP solutions. The ideal candidate will have experience in designing AI-driven systems, implementing Natural Language Processing (NLP) models, and developing full-stack applications. As part of our team, you will work on cutting-edge AI/ML technologies to build systems that optimize hiring decisions, enhance business operations, and drive AI product innovation.
+
+Responsibilities:
+
+Develop and implement AI/ML-driven systems for automated resume parsing and interview evaluation using advanced NLP techniques.
+
+Build data scraping pipelines for gathering real-time competitor and market data.
+
+Work on integrating BERT models for contextual skill extraction and NLP tasks such as sentiment analysis and named entity recognition (NER).
+
+Create and manage RESTful APIs, incorporating AI/ML models to provide real-time data processing for internal business functions.
+
+Design and develop interactive dashboards for presenting AI-driven insights using Streamlit or similar tools.
+
+Collaborate with cross-functional teams to improve product offerings and enhance AI-based solutions.
+
+Optimize algorithms for scalability, accuracy, and performance in real-world applications.
+
+Key Skills & Qualifications:
+
+Strong proficiency in Python and relevant AI/NLP libraries (e.g., Hugging Face Transformers, BeautifulSoup, Selenium).
+
+Experience with machine learning and deep learning models, including BERT, for NLP applications.
+
+Familiarity with frameworks like Flask, FastAPI, and web development tools (HTML, CSS, JavaScript, React.js).
+
+Proficient in database management using MongoDB, MySQL, and related technologies.
+
+Knowledge of deploying AI models and integrating APIs for seamless application development.
+
+Ability to build intuitive user interfaces and systems using Flask and/or React.
+
+Solid understanding of data structures, algorithms, and software development best practices.
+
+Strong communication skills with the ability to present technical results to both technical and non-technical stakeholders.
+
+Preferred Qualifications:
+
+Experience with OpenAI API and other AI-driven platforms for query processing and decision-making.
+
+Exposure to speech analysis tools like Whisper and their integration in NLP-based systems.
+
+Familiarity with cloud platforms and AI deployment techniques.
+
+Why Join Us:
+
+Work in an innovative, AI-driven environment with cutting-edge technologies.
+
+Opportunities for career growth and development in AI/ML.
+
+Collaborative and inclusive work culture focused on innovation and real-world problem-solving.
